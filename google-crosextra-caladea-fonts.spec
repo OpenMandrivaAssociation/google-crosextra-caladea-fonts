@@ -6,7 +6,7 @@
 
 Name:           %{fontname}-fonts
 Version:        1.002
-Release:        %mkrel 0.2.20130214.4
+Release:        0.2.20130214.1
 Summary:        Sans-serif font metric-compatible with Cambria font
 
 Group:          System/Fonts/True type
@@ -55,30 +55,3 @@ ln -s %{_fontconfig_templatedir}/%{fontconf62}-fontconfig.conf \
 
 %doc
 
-
-
-
-%changelog
-* Wed Oct 15 2014 umeabot <umeabot> 1.002-0.2.20130214.4.mga5
-+ Revision: 746203
-- Second Mageia 5 Mass Rebuild
-
-* Tue Sep 16 2014 umeabot <umeabot> 1.002-0.2.20130214.3.mga5
-+ Revision: 679889
-- Mageia 5 Mass Rebuild
-
-* Sat Nov 02 2013 tv <tv> 1.002-0.2.20130214.2.mga4
-+ Revision: 549106
-- really rebuild with fixed fontpackages-devel (w/o scriptlets)
-
-* Sat Nov 02 2013 tv <tv> 1.002-0.2.20130214.1.mga4
-+ Revision: 548816
-- rebuild with fixed fontpackages-devel (w/o scriptlets)
-
-* Sat Nov 02 2013 tv <tv> 1.002-0.2.20130214.mga4
-+ Revision: 548788
-- imported package google-crosextra-caladea-fonts
-
-
-* Sat Nov 02 2013 Thierry Vignaud <tv@mageia.org> 1.002-0.2.20130214.mga4
-- import from FC
