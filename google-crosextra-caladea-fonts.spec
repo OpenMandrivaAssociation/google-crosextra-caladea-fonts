@@ -6,7 +6,7 @@
 
 Name:           %{fontname}-fonts
 Version:        1.002
-Release:        0.2.20130214.2
+Release:        0.2.20130214.3
 Summary:        Sans-serif font metric-compatible with Cambria font
 
 Group:          System/Fonts/True type
