@@ -13,7 +13,7 @@ Group:          System/Fonts/True type
 # License added in font as "otfinfo -i Caladea-Regular.ttf | grep License"
 # also from http://code.google.com/p/chromium/issues/detail?id=280557
 License:        ASL 2.0
-URL:            http://code.google.com/p/chromium/issues/detail?id=168879
+URL:            https://code.google.com/p/chromium/issues/detail?id=168879
 Source0:        http://gsdview.appspot.com/chromeos-localmirror/distfiles/%{archivename}.tar.gz
 Source1:        30-0-%{fontname}-fontconfig.conf
 Source2:        62-%{fontname}-fontconfig.conf
